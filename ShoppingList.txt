@@ -1,1 +1,5 @@
- Grocery list1. Rice2. Fruit3. Lettuce
+ Grocery list
+1. Rice
+2. Fruit
+3. Lettuce
+4. Tomato
